@@ -13,7 +13,7 @@ Data projects, course completions and certificates are on the list in my portfol
 
 - [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0QDNHSLT2300) | Coursera in IBM | October 2025
 
-## Course Cpompletions
+## Online Course Completions
 
 - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/verify/5SI76EF9R2VB) | Coursera | March 2025
 
