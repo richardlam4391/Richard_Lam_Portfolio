@@ -1,11 +1,23 @@
 # Richard Lam's Portfolio
 All projects, course completions and certificates are on the list in my portfolio.
 
-## Certificates
+## Course Certificate
+
+- [IBM Data Analyst Professional Certificate Courses](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | Coursera in IBM | June 2025
+
+- [Data Analysis and Visualization Foundation Courses](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations) | Coursera in IBM | June 2025
+
+- [Data Science Fundamentals with Python and SQL Courses](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL) | Coursera in IBM | June 2025
+
+- [Introduction to Data Science Courses](https://github.com/richardlam4391/Introduction_to_Data_Science) | Coursera in IBM | June 2025
+
+- [IBM Data Science Professional Certificate Courses](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate) | Coursera in IBM | October 2025
+
+## Completing Certificates
 
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) | Coursera in IBM | June 2025
 
-- [Data Analysis and visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) | Coursera in IBM | June 2025
+- [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) | Coursera in IBM | June 2025
 
 - [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) | Coursera in IBM | June 2025
 
