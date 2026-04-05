@@ -73,7 +73,7 @@ All projects, course completions and certificates are on the list in my portfoli
 
 - [Excel Basics for Data Analysis: Montgomery Fleet Equipment Inventory FA PART 1](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Excel%20Basics%20for%20Data%20Analysis/Exercise%20and%20Project/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx) | Coursera IBM | March 2025
 
-- - [Excel Basics for Data Analysis: Montgomery Fleet Equipment Inventory FA PART 2](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Excel%20Basics%20for%20Data%20Analysis/Exercise%20and%20Project/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xslx.xlsx) | Coursera IBM | March 2025
+- [Excel Basics for Data Analysis: Montgomery Fleet Equipment Inventory FA PART 2](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Excel%20Basics%20for%20Data%20Analysis/Exercise%20and%20Project/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xslx.xlsx) | Coursera IBM | March 2025
 
 - [Data Visualization and Dashboards with Excel and Cognos: Sale and Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Exercise%20and%20Project/Sales_and_Service_Dashboard_in_Looker_Studio.pdf) | Coursera in IBM | April 2025
 
@@ -85,7 +85,7 @@ All projects, course completions and certificates are on the list in my portfoli
 
 - [Data Visualization with Python: Historical_Automobile_Sales Part A](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Exercise%20and%20Projects/Lab5c%20Final%20Project.ipynb) | Coursera in IBM | May 2025
 
-- - [Data Visualization with Python: Historical_Automobile_Sales Part B](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Exercise%20and%20Projects/Lab5d%20Final%20Project.py) | Coursera in IBM | May 2025
+- [Data Visualization with Python: Historical_Automobile_Sales Part B](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Exercise%20and%20Projects/Lab5d%20Final%20Project.py) | Coursera in IBM | May 2025
 
 - [Statistics for Data Science with Python: Boston Housing](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Statistics%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/Peer_Graded_Assignment.jupyterlite.ipynb) | Coursera in IBM | June 2025
 
