@@ -75,4 +75,4 @@ All projects, course completions and certificates are on the list in my portfoli
 
 - [Boston Housing](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Statistics%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/Peer_Graded_Assignment.jupyterlite.ipynb) | Coursera in IBM | June 2025
 
-- [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone/Exercise%20and%20Project) | Coursera in IBM | October 2025
+- [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Exercise%20and%20Project/Richard%20Lam%20Data%20Science%20Capstone%20Project.pdf) | Coursera in IBM | October 2025
