@@ -71,7 +71,7 @@ All projects, course completions and certificates are on the list in my portfoli
 
 ## Projects
 
-- [Chicago Socioeconomic Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/mod5_final_project.ipynb) | Coursera in IBM | May 2025
+- [Chicago Socioeconomic Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/mod5_final_project.ipynb) | Coursera in IBM | May 2024
 
 - [IBM Data Analyst Capstone Project](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Exercise%20and%20Project/DataAnalystPresentation.pdf) | Coursera in IBM | May 2025
 
