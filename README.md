@@ -71,10 +71,16 @@ All projects, course completions and certificates are on the list in my portfoli
 
 ## Projects
 
-- [Chicago Socioeconomic Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/mod5_final_project.ipynb) | Coursera in IBM | May 2024
+- [Python Project for Data Science: Extracting and Visualizing Stock Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Python%20Project%20for%20Data%20Science/Exercise%20and%20Project/Final%20Assignment%20Richard%20Lam.ipynb) | Coursera in IBM | April 2025
 
-- [IBM Data Analyst Capstone Project](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Exercise%20and%20Project/DataAnalystPresentation.pdf) | Coursera in IBM | May 2025
+- [Databases and SQL for Data Science with Python: Chicago Socioeconomic Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/mod5_final_project.ipynb) | Coursera in IBM | April 2025
 
-- [Boston Housing](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Statistics%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/Peer_Graded_Assignment.jupyterlite.ipynb) | Coursera in IBM | June 2025
+- [Data Visualization with Python: Historical_Automobile_Sales](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/Data%20Visualization%20with%20Python/Exercise%20and%20Projects/Lab5c%20Final%20Project.ipynb) | Coursera in IBM | May 2025
+
+- [IBM Data Analyst Capstone Project: The Analysis of Current and Future Trends in Techanical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM%20Data%20Analyst%20Capstone%20Project/Exercise%20and%20Project/DataAnalystPresentation.pdf) | Coursera in IBM | May 2025
+
+- [Statistics for Data Science with Python: Boston Housing](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/blob/main/Statistics%20for%20Data%20Science%20with%20Python/Exercise%20and%20Project/Peer_Graded_Assignment.jupyterlite.ipynb) | Coursera in IBM | June 2025
+
+- [Applied Data Science Capstone: Wining Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Machine%20Learning%20with%20Python/Exercise%20and%20Project/FinalProject_AUSWeather.ipynb) | Coursera in IBM | October 2025
 
 - [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/blob/main/Applied%20Data%20Science%20Capstone/Exercise%20and%20Project/Richard%20Lam%20Data%20Science%20Capstone%20Project.pdf) | Coursera in IBM | October 2025
