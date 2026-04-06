@@ -18,7 +18,7 @@ All skills, projects, course completions and certificates are on the list.
 
 - Microsoft Excel (Pivot Table, VLOOKUP/HLOOKUP/XLOOKUP, Conditional Formatting) 
 
-## Other skills
+## General skills
 - Data Entry
   
 - Data Analysis
