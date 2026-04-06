@@ -1,5 +1,5 @@
 # Richard Lam's Portfolio
-All projects, course completions and certificates are on the list in my portfolio.
+All skills, projects, course completions and certificates are on the list.
 
 ## Technical skills
 - Python (pandas, numpy, scikit-learn, matplotlib, seaborn and sqlite3)
