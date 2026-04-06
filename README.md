@@ -1,6 +1,50 @@
 # Richard Lam's Portfolio
 All projects, course completions and certificates are on the list in my portfolio.
 
+## Technical skills
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn and sqlite3)
+  
+- SQL (MySQL and Microsoft SQL Server)
+
+- Visual Studio Code
+
+- Jupyter Notebook
+
+- Looker Studio
+
+- Microsoft Word
+
+- Microsoft PowerPoints
+
+- Microsoft Excel (Pivot Table, VLOOKUP/HLOOKUP/XLOOKUP, Conditional Formatting) 
+
+## Other skills
+- Data Entry
+  
+- Data Analysis
+
+- Data Report
+  
+- Dashboard
+
+- Math and Statistics
+
+- Data Management
+
+- Document and Filing Management
+
+- Statistical Analysis
+
+- Machine Learning
+
+- Data Cleansing and Wrangling
+
+- API and Web Scraping
+
+- Data Visualization
+
+- Data Manipulation 
+
 ## Course Certificate
 
 - [IBM Data Analyst Professional Certificate Courses](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | Coursera | June 2025
